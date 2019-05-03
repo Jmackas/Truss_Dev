@@ -1,4 +1,9 @@
+adminInterface();
 readOnly();
+
+function adminInterface() {
+    
+}
 
 function readOnly() {
     let hello = document.querySelectorAll('[value="submit"]');
